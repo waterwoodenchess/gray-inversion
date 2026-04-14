@@ -19,4 +19,9 @@ IMAGE/
 那就可以写img = cv2.imread("images/test.jpg")
 如果觉得麻烦，就用绝对地址，记得绝对地址的斜杠要是/而不是\，一般从文件夹上面复制粘贴过来的是\，我们需要手动改成/，或者用r:"C\..."
 
+测试数集：通过网盘分享的文件：test_image
+链接: https://pan.baidu.com/s/1Nn4YUCLiWRtnDZjZSqG73w 提取码: 0026 
+--来自百度网盘超级会员v6的分享
+
 差不多就这样，祝运行顺利！！
+

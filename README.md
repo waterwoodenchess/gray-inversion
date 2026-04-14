@@ -1,5 +1,5 @@
 # gray-inversion
-本项目可以用来对单张图片以及对文件夹进行灰度反转的操作
+本项目可以用来对单张图片以及对文件夹进行灰度反转的操作，用到了opencv
 
 Gray_Inversion_Onlyimage主要是对单张图片进行的操作
 而Gray_Inversion_folder主要是对文件夹（包含大量文件）进行的操作

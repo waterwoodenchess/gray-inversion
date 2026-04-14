@@ -23,7 +23,13 @@ IMAGE/
 链接: https://pan.baidu.com/s/16rp2EjkDtGH8dZ3G9SoH7A 提取码: 0026 
 --来自百度网盘超级会员v6的分享
 
+对了 vscode不是什么很重要的东西，可以不用下载他，或者下载完了不管就行，主要是包含了一些解释器的东西，只要在别的地方重新选一下就好了
+我用的解释器：
+<img width="426" height="57" alt="image" src="https://github.com/user-attachments/assets/19c6368f-5b16-4fbd-87b8-445e58dc8ccb" />
+
 差不多就这样，祝运行顺利！！
 
 2026-4-15
 添加了.gitignore，并且重新修改了文件的地址，方便之后可以更好的看文件。
+
+
